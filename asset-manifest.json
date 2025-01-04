@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Aman-rohilla69/ar_portfolio-react/static/css/main.7738a614.css",
+    "main.js": "/Aman-rohilla69/ar_portfolio-react/static/js/main.08e57fa0.js",
+    "static/js/453.5e560239.chunk.js": "/Aman-rohilla69/ar_portfolio-react/static/js/453.5e560239.chunk.js",
+    "static/media/heroimg.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/heroimg.c0df69cc556e807a2959.jpg",
+    "static/media/project1.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/project1.6c306c7374d3f84cf5d2.jpg",
+    "static/media/project2.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/project2.dd06460245e2fb7d34e8.jpg",
+    "static/media/project5.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/project5.4da06f5fe261dafbb921.jpg",
+    "static/media/project6.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/project6.431e7805223777a9ef6a.jpg",
+    "static/media/logo.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/logo.edeb53a737b41f36ff13.jpg",
+    "static/media/project3.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/project3.6bd613fc8c8f7baf3707.jpg",
+    "static/media/project4.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/project4.c9a0b5b5480c5e97c14d.jpg",
+    "static/media/menu_close.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/menu_close.c60fb5f8d9a7c6156164.jpg",
+    "static/media/nav_underline.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/nav_underline.d30625c3835d1aba0fbf.jpg",
+    "static/media/mail_icon.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/mail_icon.54826e7461e555a0d4a8.jpg",
+    "static/media/menu_open.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/menu_open.b9902d9c1d4b3a8d8a57.jpg",
+    "static/media/phone_icon.jpg": "/Aman-rohilla69/ar_portfolio-react/static/media/phone_icon.d51097278d431dc48a01.jpg",
+    "index.html": "/Aman-rohilla69/ar_portfolio-react/index.html",
+    "main.7738a614.css.map": "/Aman-rohilla69/ar_portfolio-react/static/css/main.7738a614.css.map",
+    "main.08e57fa0.js.map": "/Aman-rohilla69/ar_portfolio-react/static/js/main.08e57fa0.js.map",
+    "453.5e560239.chunk.js.map": "/Aman-rohilla69/ar_portfolio-react/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7738a614.css",
+    "static/js/main.08e57fa0.js"
+  ]
+}
