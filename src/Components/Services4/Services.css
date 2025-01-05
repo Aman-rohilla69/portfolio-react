@@ -13,6 +13,7 @@
 .services-title h1 {
   padding: 0 30px;
   font-size: 60px;
+  align-items: center;
   font-weight: 600;
   background: linear-gradient(264deg, #df8908 10%, #b415ff 100%);
   border-radius: 20px;
@@ -98,6 +99,7 @@ background-color: none;
   .services-title h1{
     padding: 0;
     font-size: 50px;
+    align-items: center;
   }
   .services-title img{
     width: 130px;
@@ -109,9 +111,6 @@ background-color: none;
   }
   .services-format h2{
     font-size: 28px;
-  }
-  .services-format h3{
-    font-size: 25px;
   }
   .services-format p{
     font-size: 18px;

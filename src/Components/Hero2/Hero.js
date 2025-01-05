@@ -26,10 +26,10 @@ function Hero() {
           }`}
         >
           {isFirstLine ? (
-            <h1 className=" firstline text-blue-500"> I'm Aman Rohilla 😇. </h1>
+            <h1 className=" firstline text-blue-500 text-center"> I'm Aman Rohilla 😇. </h1>
           ) : (
-            <h1 className=" secondline text-red-500">
-              I'm a Full-Stack Developer 👨🏼‍💻.
+            <h1 className=" secondline text-red-500 text-center">
+              I'm a Website Developer 👨🏼‍💻.
             </h1>
           )}
         </div>

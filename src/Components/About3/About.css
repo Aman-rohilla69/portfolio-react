@@ -133,10 +133,11 @@ position: relative;
     .about-title h1{
         font-size: 50px;
         padding: 0;
+        text-align: center;
     }
     .about-title img{
         width: 130px;
-        right: -30px;
+        right: -20px;
     }
     .profile-img{
         align-content: start;
@@ -152,7 +153,6 @@ position: relative;
     .about-para{
         font-size: 18px;
         line-height: 32px;
-
     }
     .about-skill{
         gap: 20px;
@@ -165,17 +165,20 @@ position: relative;
         height: 6px;
     }
     .about-achievements{
-        justify-content: space-between;
+        justify-content: space-between;    
     }
     .about-achievement{
-        gap: 10px;
+        gap: 10px; 
     }
     .about-achievement h1{
         font-size: 34px;
         font-weight: 700;
+        text-align: center;
+        gap: 10px;
     }
     .about-achievement p{
         text-align: center;
         font-size: 16px;
+        /* white-space: 10px; */
     }
 }

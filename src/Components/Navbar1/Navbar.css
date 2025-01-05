@@ -22,8 +22,9 @@ body{
     z-index:12;
 }
  .logo-img{
-    height: 100px;
-    width: 100px; 
+    /* margin-left: -60px; */
+    height: 80px;
+    width: 80px; 
     border: 1px solid white;
     border-radius: 50%;
     object-fit: contain;
@@ -61,6 +62,7 @@ body{
     font-size: 20px;
     cursor: pointer;
     transition: .5s;
+    text-align: center;
 }
 .nav-connect:hover{
     transform: scale(1.09);
@@ -85,15 +87,6 @@ body{
 .nav-mob-open{
     height: 50px;
     width: 50px;
-    object-fit: contain;
-    mix-blend-mode:screen;       /*it remove the background-color: ;*/  
-    display: none;
-}
-.nav-mob-open:hover{
-    height: 50px;
-     width: 50px;
-    /*cursor: pointer;
-    filter: drop-shadow(1px 1px 20px #fff ); */
     object-fit: contain;
     mix-blend-mode:screen;       /*it remove the background-color: ;*/  
     display: none;
